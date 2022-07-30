@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = treggy89@gmail.com
+	name = ben treglown
